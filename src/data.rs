@@ -8,7 +8,7 @@ pub fn fetch_products(_settings: &Settings) -> Vec<Product> {
             name: "Macbook Air".to_string(),
             price: 1399.99,
             description: "Macbook Air".to_string(),
-            image: "/macboobair.jpg".to_string()
+            image: "/macbookair.jpg".to_string()
         },
         Product {
             id: 2,
@@ -26,7 +26,7 @@ pub fn fetch_products(_settings: &Settings) -> Vec<Product> {
         },
         Product {
             id: 4,
-            name: "iphone".to_string(),
+            name: "Iphone".to_string(),
             price: 2011.99,
             description: "Iphone 16".to_string(),
             image: "/iphone.jpg".to_string()
@@ -54,10 +54,10 @@ pub fn fetch_products(_settings: &Settings) -> Vec<Product> {
         },
         Product {
             id: 8,
-            name: "Video Game".to_string(),
+            name: "Video Game Controller".to_string(),
             price: 7.99,
-            description: "Video Game".to_string(),
-            image: "/videogame.jpg".to_string()
+            description: "Video Game Controller".to_string(),
+            image: "/videogamecontroller.jpg".to_string()
         },
         Product {
             id: 9,
